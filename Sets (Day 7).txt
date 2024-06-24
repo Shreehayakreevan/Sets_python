@@ -1,0 +1,23 @@
+# Set Operations Demo
+
+This Python script demonstrates basic set operations using Python's built-in set data structure.
+
+## Requirements
+
+- Python 3.x
+
+## Usage
+
+1. Clone the repository or download the `sets_operations.py` file.
+2. Navigate to the directory containing `sets_operations.py`.
+3. Run the script using the following command:
+
+   ```bash
+   python sets_operations.py
+
+
+
+                                                    Operations Demonstrated
+                               Union: Combines elements from both sets, eliminating duplicates.
+                                   Intersection: Finds common elements between both sets.
+                     Difference: Finds elements that are only in the first set and not in the second set.
